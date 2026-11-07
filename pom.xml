@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>hadith-java-sahih-hasan-grader</artifactId>
+  <version>1.0.0</version>
+  <name>Multi-Criteria Hadith Grading Inference Engine (Sahih/Hasan/Da'if)</name>
+</project>
